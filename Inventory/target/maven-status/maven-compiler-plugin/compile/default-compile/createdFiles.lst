@@ -1,0 +1,9 @@
+com\inventory\LuxuryCategory.class
+com\inventory\Category.class
+com\inventory\Chain.class
+com\inventory\Items$ItemsBuilder.class
+com\inventory\MiscCategory.class
+com\inventory\ReadCsv.class
+com\inventory\CalculateTotal.class
+com\inventory\Items.class
+com\inventory\EssentialsCategory.class
