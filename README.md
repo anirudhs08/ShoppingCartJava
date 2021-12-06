@@ -16,3 +16,8 @@ Ensure that Java, Maven and JDK are installed in your system and set the path va
 4. Run the command - mvn clean install <br/>
 5. Run the command - mvn -X clean install exec:java -Dexec.mainClass="com.inventory.ReadCsv" -Dexec.args="Input.csv"
 6. You will be able to see the outputs generated in Inventory\src\main\resources\input
+
+## Design Patterns implemented
+
+1. Singleton <br/>
+2. Chain of Responsibility <br/>
